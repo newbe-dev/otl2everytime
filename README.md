@@ -11,6 +11,8 @@ OTL '내 시간표'를 에브리타임 시간표로 불러옵니다.
 
 ## 실행
 
-1. main.cmd 실행
-2. 카이스트 ID, 에타 ID, PW 입력
-3. KAIST 간편인증
+1. 파일 다운받고 압축해제 (Code -> Download ZIP)
+2. main.cmd 실행
+3. 카이스트 ID, 에타 ID, PW 입력
+4. KAIST 간편인증
+
